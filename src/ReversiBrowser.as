@@ -38,6 +38,7 @@ package
 	import flash.display.StageScaleMode;
 	import flash.events.Event;
 	
+	[SWF(frameRate="24")]
 	public class ReversiBrowser extends Sprite
 	{
 		private var reversi:Reversi;
